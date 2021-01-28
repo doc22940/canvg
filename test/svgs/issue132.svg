@@ -1,12 +1,1 @@
-<svg width="550" height="400" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <radialGradient r="0.5" cy="0.5" cx="0.5" spreadMethod="pad" id="svg_3">
-   <stop offset="0" stop-color="#FF0000"/>
-   <stop offset="1" stop-opacity="0.99609" stop-color="#00bf00"/>
-  </radialGradient>
- </defs>
- <g>
-  <title>Layer 1</title>
-  <rect id="svg_2" height="124" width="252" y="125" x="142" stroke-width="5" stroke="#000000" fill="url(#svg_3)"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="400"><defs><radialGradient id="svg_3" cx=".5" cy=".5" r=".5" spreadMethod="pad"><stop offset="0" stop-color="red"/><stop offset="1" stop-color="#00bf00" stop-opacity=".996"/></radialGradient></defs><g><title>Layer 1</title><rect id="svg_2" width="252" height="124" x="142" y="125" fill="url(#svg_3)" stroke="#000" stroke-width="5"/></g></svg>

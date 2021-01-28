@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" enable-background="new 0 0 612 792" viewBox="0 0 612 792" x="0px" y="0px" width="612px" height="792px" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve" version="1.1">
-  <defs>
-    <clipPath id="clip-mask">
-      <rect x="0" y="0" width="256" height="256"></rect>
-    </clipPath>
-  </defs>
-  <g clip-path="url('#clip-mask')">
-    <g transform="translate(-128 -128)">
-      <rect x="0" y="0" width="1024" height="1024" fill="#f00"></rect>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="Layer_1" width="612" height="792" x="0" y="0" enable-background="new 0 0 612 792" version="1.1" viewBox="0 0 612 792" xml:space="preserve"><defs><clipPath id="clip-mask"><rect width="256" height="256" x="0" y="0"/></clipPath></defs><g clip-path="url('#clip-mask')"><g transform="translate(-128 -128)"><rect width="1024" height="1024" x="0" y="0" fill="red"/></g></g></svg>

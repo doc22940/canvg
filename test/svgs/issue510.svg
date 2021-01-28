@@ -1,7 +1,1 @@
-<svg>
-<rect fill="red" x="0" y="0" width="50" height="50" opacity="0.5" />
-<g opacity="0.5">
-  <rect fill="red" x="50" y="50" width="50" height="50" opacity="0.5" />
-<rect fill="red" x="100" y="100" width="50" height="50" />
-</g>
-</svg>
+<svg><rect width="50" height="50" x="0" y="0" fill="red" opacity=".5"/><g opacity=".5"><rect width="50" height="50" x="50" y="50" fill="red" opacity=".5"/><rect width="50" height="50" x="100" y="100" fill="red"/></g></svg>
