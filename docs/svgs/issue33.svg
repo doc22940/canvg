@@ -1,5 +1,1 @@
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
-  <text font-style="italic" xml:space="preserve" text-anchor="middle"
-font-family="Serif" font-size="48" id="svg_10" y="49" x="74"
-stroke-width="0" stroke="#000000" fill="#000000">Italic</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480"><text id="svg_10" x="74" y="49" fill="#000" stroke="#000" stroke-width="0" font-family="Serif" font-size="48" font-style="italic" text-anchor="middle" xml:space="preserve">Italic</text></svg>

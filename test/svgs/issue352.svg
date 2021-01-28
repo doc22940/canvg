@@ -1,3 +1,1 @@
-<svg>
-<rect x="0" y="0" fill="red" height="100" width="100" style="transform: translate(100px, 0px);" />
-</svg>
+<svg><rect width="100" height="100" x="0" y="0" fill="red" style="transform:translate(100px,0)"/></svg>
